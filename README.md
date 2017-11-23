@@ -4,7 +4,7 @@ Tor (anonymity network) "The Onion Router". Tor directs Internet traffic through
 
 Tor aims to conceal its users' identities and their online activity from surveillance and traffic analysis by separating identification and routing. It is an implementation of onion routing, which encrypts and then randomly bounces communications through a network of relays run by volunteers around the globe.
 
-░░░░░░███████ ]▄▄▄▄▄▄▄▄▃###################################################################################################
+░░░░░░███████ ]▄▄▄▄▄▄▄▄▃#############################################################################################
 ▂▄▅█████████▅▄▃▂###############################################################################################################
 I███████████████████]##############################################################################################################
 ◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤###############################################################################################################
